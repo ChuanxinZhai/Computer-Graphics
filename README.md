@@ -1,6 +1,6 @@
 # Computer-Graphics
 
-Using C# (VS code) to create graphics program (OpenGL)
+Using C++ (VS code) to create graphics program (OpenGL)
 
 ### 2D Modelling Project
 
