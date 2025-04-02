@@ -25,6 +25,7 @@ You are required to create a well-thought 3-dimensional scene which is suitable 
 
 • Effective use of relevant OpenGL libraries
 
+![image](https://github.com/user-attachments/assets/b5c48cf6-cadd-45f0-9e6f-38ebfbe8cdf5)
 
 
 
