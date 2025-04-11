@@ -2,7 +2,7 @@
 
 Using C++ (VS code) to create graphics program (OpenGL)
 
-### 2D Modelling Project
+## 2D Modelling Project
 
 You are required to create a 2-Dimensional Greeting Card for the 15th anniversary of XJTLU, which should contain at least one key feature (e.g. a building on campus in a simplified shape) to represent the University.        Your Greeting Card could include balloons, flowers, trees, smiling faces, lights, sky and other objects that may appear in a physical greeting card.         It should consist of a background and both still and animated objects where appropriate.     Keyboard and mouse functions can be used to trigger the actions or display your Greeting Card in stages.    In particular, you should consider the following in completing this assignment:
 
@@ -15,7 +15,7 @@ You are required to create a 2-Dimensional Greeting Card for the 15th anniversar
 • Good programming practice (e.g. necessary comments and neat format of coding).
 
 
-### 3D Modelling Project
+## 3D Modelling Project
 
 You are required to create a well-thought 3-dimensional scene which is suitable to demonstrate your knowledge and skills in computer graphics.
 
