@@ -14,6 +14,9 @@ You are required to create a 2-Dimensional Greeting Card for the 15th anniversar
 
 • Good programming practice (e.g. necessary comments and neat format of coding).
 
+![image](https://github.com/user-attachments/assets/4090663e-bede-4f4c-975e-e94a90400185)
+
+
 
 ## 3D Modelling Project
 
